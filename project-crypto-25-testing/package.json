@@ -1,0 +1,10 @@
+{
+  "name": "CRIPTO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "yargs": "^17.7.2"
+  }
+}
